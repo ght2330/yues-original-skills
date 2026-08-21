@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reference-Driven Web Design"
+  short_description: "Turn web references into an approved design contract"
+  default_prompt: "Use $reference-driven-web-design to research or analyze web references, get my approval, and create DESIGN.md before implementation."
