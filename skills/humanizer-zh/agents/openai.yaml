@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer 中文文本自然化"
+  short_description: "诊断并保真改写中文文本，减少模板腔并保留事实、语气和作者声音"
+  default_prompt: "Use $humanizer-zh to edit this Chinese text in the mode and genre appropriate to my request, preserving facts and existing voice."
